@@ -1,11 +1,11 @@
 ### Hi there 👋 Im rohan
+#  Find me on: 
+## https://www.linkedin.com/in/rohan-nagpure/ 
 
-# reach out to me via https://www.linkedin.com/in/rohan-nagpure/ 
+# Reach out to me at: 
+## nagpure.r@northeastern.edu
 
-
-# nagpure.r@northeastern.edu
-
-# 609 375 6850
+## 609 375 6850
 <!--
 **rohannagpure45/rohannagpure45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
